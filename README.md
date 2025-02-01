@@ -9,8 +9,9 @@
     <a href="https://github.com/RonDeppe/guid/blob/main/LICENSE">
         <img src="https://img.shields.io/github/license/RonDeppe/guid" alt="License">
     </a>
-  <a href="https://github.com/RonDeppe?tab=repositories&q=&type=&language=go&sort=">
-        <img src="https://img.shields.io/github/languages/top/RonDeppe/guid?logo=dotnet&label=" alt="Top Language">
+  <a href="https://github.com/RonDeppe?tab=repositories&q=&type=&language=c%23&sort=">
+        <img src="https://img.shields.io/github/languages/top/RonDeppe/guid" alt="Top Language">
+
     </a>
 </p>
 
