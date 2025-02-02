@@ -11,7 +11,6 @@
     </a>
   <a href="https://github.com/RonDeppe?tab=repositories&q=&type=&language=c%23&sort=">
         <img src="https://img.shields.io/github/languages/top/RonDeppe/guid" alt="Top Language">
-
     </a>
 </p>
 
